@@ -1,10 +1,10 @@
-# Real-Time Chatting App
+# Real-Time Chatting App💻
 
 A simple and intuitive real-time chatting application built using **Node.js** and **Socket.io**. This application allows users to join chat rooms and communicate with others in real time.
 
 ---
 
-## Features
+## Features✨
 
 - Real-time messaging using Socket.io.
 - Multiple users can join the same chat room and exchange messages.
@@ -13,7 +13,7 @@ A simple and intuitive real-time chatting application built using **Node.js** an
 
 ---
 
-## Tech Stack
+## Tech Stack🚀
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
@@ -21,7 +21,7 @@ A simple and intuitive real-time chatting application built using **Node.js** an
 
 ---
 
-## Prerequisites
+## Prerequisites📋
 
 Before running the application, ensure you have the following installed:
 
@@ -30,7 +30,7 @@ Before running the application, ensure you have the following installed:
 
 ---
 
-## Installation
+## Installation📝
 
 1. **Clone the repository**:
    ```bash
@@ -51,14 +51,14 @@ Before running the application, ensure you have the following installed:
    ```
 
 ---
-# How It Works
+# How It Works🛡️
 - Users connect to the app through a web interface.
 - Socket.io establishes a WebSocket connection for real-time communication.
 - Messages are broadcasted to all users in the same chat room.
 
 --- 
 
-# Contributing
+# Contributing🤝
 Contributions are welcome! Please follow these steps:
 
 - Fork the repository.
@@ -69,12 +69,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## Contact
+## Contact📧
 
 For any inquiries, feedback, or suggestions, feel free to get in touch:
 
 **Harsha Verma**  
 [LinkedIn](https://www.linkedin.com/in/vermaharsha)  
 
-I’d love to hear from you!
+I’d ❤️ to hear from you!
 
