@@ -8,7 +8,6 @@ A simple and intuitive real-time chatting application built using **Node.js** an
 
 - Real-time messaging using Socket.io.
 - Multiple users can join the same chat room and exchange messages.
-- Unique usernames for each participant.
 - Responsive and user-friendly interface.
 - Notifications for new users joining or leaving the chat room.
 
@@ -56,4 +55,26 @@ Before running the application, ensure you have the following installed:
 - Users connect to the app through a web interface.
 - Socket.io establishes a WebSocket connection for real-time communication.
 - Messages are broadcasted to all users in the same chat room.
-- Events like "user joined" or "user left" are emitted to update all users.
+
+--- 
+
+# Contributing
+Contributions are welcome! Please follow these steps:
+
+- Fork the repository.
+- Create a new branch: `git checkout -b feature-name`.
+- Commit your changes: `git commit -m 'Add new feature`.
+- Push to the branch: `git push origin feature-name`.
+- Submit a pull request.
+
+---
+
+## Contact
+
+For any inquiries, feedback, or suggestions, feel free to get in touch:
+
+**Harsha Verma**  
+[LinkedIn](https://www.linkedin.com/in/vermaharsha)  
+
+I’d love to hear from you!
+
