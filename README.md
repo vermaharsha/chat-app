@@ -78,3 +78,7 @@ For any inquiries, feedback, or suggestions, feel free to get in touch:
 
 I’d ❤️ to hear from you!
 
+
+---
+## Author 💻
+Made with love by [Harsha Verma](https://github.com/vermaharsha)
